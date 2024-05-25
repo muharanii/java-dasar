@@ -1,0 +1,224 @@
+{
+        // Use IntelliSense to learn about possible attributes.
+        // Hover to view descriptions of existing attributes.
+        // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+        "version": "0.2.0",
+        "configurations": [
+                {
+                        "type": "java",
+                        "name": "Array",
+                        "request": "launch",
+                        "mainClass": "Array",
+                        "projectName": "java-dasar_1389b544"
+                },
+                {
+                        "type": "java",
+                        "name": "Scope",
+                        "request": "launch",
+                        "mainClass": "Scope",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "RecrusiveMethod",
+                        "request": "launch",
+                        "mainClass": "RecrusiveMethod",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "MethodOverloading",
+                        "request": "launch",
+                        "mainClass": "MethodOverloading",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "MethodVariableArgument",
+                        "request": "launch",
+                        "mainClass": "MethodVariableArgument",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "MethodReturnValue",
+                        "request": "launch",
+                        "mainClass": "MethodReturnValue",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "MethodParameter",
+                        "request": "launch",
+                        "mainClass": "MethodParameter",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "Method",
+                        "request": "launch",
+                        "mainClass": "Method",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "forEach",
+                        "request": "launch",
+                        "mainClass": "forEach",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "Countinue",
+                        "request": "launch",
+                        "mainClass": "Countinue",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "Break",
+                        "request": "launch",
+                        "mainClass": "Break",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "DoWhileLoop",
+                        "request": "launch",
+                        "mainClass": "DoWhileLoop",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "WhileLoop",
+                        "request": "launch",
+                        "mainClass": "WhileLoop",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "FoorLoop",
+                        "request": "launch",
+                        "mainClass": "FoorLoop",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "TernaryOprator",
+                        "request": "launch",
+                        "mainClass": "TernaryOprator",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "SwitchStatement",
+                        "request": "launch",
+                        "mainClass": "SwitchStatement",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "ifStatement",
+                        "request": "launch",
+                        "mainClass": "ifStatement",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "OperasiBoolean",
+                        "request": "launch",
+                        "mainClass": "OperasiBoolean",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "OperatorOperasiPerbandingan",
+                        "request": "launch",
+                        "mainClass": "OperatorOperasiPerbandingan",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "OperasiMatematika",
+                        "request": "launch",
+                        "mainClass": "OperasiMatematika",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "Array",
+                        "request": "launch",
+                        "mainClass": "Array",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "TipeDataBukanPremitif",
+                        "request": "launch",
+                        "mainClass": "TipeDataBukanPremitif",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "Variable",
+                        "request": "launch",
+                        "mainClass": "Variable",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "TipeDataString",
+                        "request": "launch",
+                        "mainClass": "TipeDataString",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "TipeDataBoolean",
+                        "request": "launch",
+                        "mainClass": "TipeDataBoolean",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "TipeDataCharacter",
+                        "request": "launch",
+                        "mainClass": "TipeDataCharacter",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "TipeDastaCharacter",
+                        "request": "launch",
+                        "mainClass": "TipeDastaCharacter",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "KonversiNumber",
+                        "request": "launch",
+                        "mainClass": "KonversiNumber",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "Current File",
+                        "request": "launch",
+                        "mainClass": "${file}"
+                },
+                {
+                        "type": "java",
+                        "name": "HelloWorld",
+                        "request": "launch",
+                        "mainClass": "${file}",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                },
+                {
+                        "type": "java",
+                        "name": "TipeDataNumber",
+                        "request": "launch",
+                        "mainClass": "TipeDataNumber",
+                        "projectName": "belajar-java-dasar_caf80e6b"
+                }
+        ]
+}
